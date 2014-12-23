@@ -1,0 +1,21 @@
+{
+    "name": "graturi1/Nxt",
+    "type": "symfony-bundle",
+    "description": "Symfony Nxt Api",
+    "keywords": ["Symfony Nxt Api"],
+    "homepage": "http://friendsofsymfony.github.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gaurav Raturi",
+            "email": "gaurav.raturi@soarlogic.com"
+        },
+        {
+            "name": "Amit pandey",
+            "email": "amit.pandey@soarlogic.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Nxt\\Bundle\\ApiBundle": "/" }
+    }
+}
